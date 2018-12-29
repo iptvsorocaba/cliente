@@ -1,1 +1,2 @@
-http://cliente.playmove.tv/m3u?user=310612&password=ab682423f5366bccb5191f9f9d87cfa0&server=direct&type=.m3u&compatible=standard
+#EXTM3U
+http://23.111.162.2/pcombatehd.m3u8?user=310612&token=9ebc0bc31bcdf40b6cf9fd2a43c3fb81&e=1546131690&bands=956
