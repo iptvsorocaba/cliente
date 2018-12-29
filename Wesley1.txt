@@ -1,5 +1,5 @@
-http://cliente.playmove.tv/m3u?user=310612&password=ab682423f5366bccb5191f9f9d87cfa0&server=direct&type=.m3u&compatible=standard
 #EXTM3U
+http://cliente.playmove.tv/m3u?user=310612&password=ab682423f5366bccb5191f9f9d87cfa0&server=direct&type=.m3u&compatible=standard
 ##################################################################### TEMPORARIOS ###################################################################
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A PRIMEIRA CHEGADA
 https://ph2dw4.oloadcdn.net/dl/l/rfJUQ6O-xAu6sr2G/UvSuXge10Nc/Primeira.Chegada.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.DUB.mkv.mp4?mime=true
