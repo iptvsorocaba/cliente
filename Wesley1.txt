@@ -1,2 +1,935 @@
 http://cliente.playmove.tv/m3u?user=310612&password=ab682423f5366bccb5191f9f9d87cfa0&server=direct&type=.m3u&compatible=standard
 #EXTM3U
+##################################################################### TEMPORARIOS ###################################################################
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A PRIMEIRA CHEGADA
+https://ph2dw4.oloadcdn.net/dl/l/rfJUQ6O-xAu6sr2G/UvSuXge10Nc/Primeira.Chegada.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.DUB.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A PRIMEIRA CHEGADA (LEG)
+https://1fhjm3i.oloadcdn.net/dl/l/Ub5vD4QtTFla1xZc/LTE8J0x0YU8/Primeira.Chegada.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.LEG.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", AQUAMAN
+https://17wy0qy.oloadcdn.net/dl/l/rRuQHBygIzsduyQB/jhl_zZgEpYY/%40QU%40M%40N.DUB.DVDRIP.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BUMBLEBLEE - LEG HDCAM
+https://1fiagei.oloadcdn.net/dl/l/GAr_Fi03RPL-E-46/OsuQcORU3q8/BUMBL%26B%26%26.2018.HDCAM.LEG.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Retorno de Mary Poppins 2018 Dublado
+https://1fiafzw.oloadcdn.net/dl/l/PDVtEE3wLIcxiOAc/srFxT13LBdQ/Mary.Poppins.Returns.2018.720p.HDCAM.Dublado.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", NASCE UMA ESTRELA (DUB)
+http://cdn2.thenightfilmes.net/httpdelivery/sexi/antigos/nc/G/NASCEUMAESTRELAHDRIPDUB.mp4?guiadoluiz
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", NASCE UMA ESTRELA (LEG)
+https://1fiafzu.oloadcdn.net/dl/l/zPLA7fhKHP7d0fC6/uhyw0WsIkyE/Nasce+Uma+Estrela+2018.HDRip.BLURRED.720p.tt1517451.LEGFIXA.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", ROBIN HOOD: A ORIGEM
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/ROBINHOODHDTCDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O GRINCH (ANIMAÇÃO)
+http://cdn2.thenightfilmes.net/httpdelivery/sexi/antigos/nc/G/OGRINCHHDCAMDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", VENOM (DUB)
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/VENOMHDDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", NASCE UMA ESTRELA
+https://nt0pwi.oloadcdn.net/dl/l/CKS6hV7kZoz_4HXd/DTVE7wD-sXc/Nasce+Uma+Estrela+2018+2018+HC+HDRip+720p.tt1517451.DUB.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BUMBLEBEE
+https://kabosu.fruithosted.net/dl/n/HwkTyQIxT_1gS8GI/dpsaqbdcodssldsp/kTXMu5IHyVGjZbDbFLlEshLWYVZbJA8GAjv3EAosLAWbxrEV264uAqW2iS4iVX_5m0CoUj-g6f_ko9BbclSOkzg4FKKP-u8nMwn9iZ5S9pKT-yE2GUEQlrxh74r2zJakT2gz9s9H9smt-GJYuKOE2cAphOXdoD_Gyq40_SXBrotFpRtM8AToo6Z9nsiIIRTNFeHUU5DuzsCI11CEdnmvHYgPnAP7PI0sYo2fp2BbYghp63FgN8hJZUdcbnnOrSgtd9OGCUg6J09LWJkhudPT_liOwcCfl001AZi0dDGF1ufUgzkUz-1QCpwFtQV_TEAnnygjoxhGxMmcXYWyu0qmsDBoljMdj9qNyF_RX5kNsoDRvlx6Q6NuFnJdNHziaSC0lE5vSii-p0paT4Gl7wsP1UpJx4VQeCah6tMkXofeBXiLVHUFqO3FbKdM9ZJnbgjl/BUMBL%26B%26%26.2018.HDCAM.LEG.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BUMBLEBEE
+https://1fiafzm.oloadcdn.net/dl/l/VkqWnJePMQ9IniCj/qblK6CZjRH8/Bumblebee.2018.HDCAM.720p.LEG.INTERNA.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", AQUAMAN
+http://stream.vstreaming.net/movies/aquaman-dub-720p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", AQUAMAN
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AQUAMANDVDRIPDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", VENOM (LEG)
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/VENOMHDLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A FREIRA (DUB)
+http://cdn2.thenightfilmes.net/httpdelivery/sexi/antigos/nc/G/AFREIRAHDRIPDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BOHEMIAN RHAPSOD
+http://cdn2.thenightfilmes.net/httpdelivery/sexi/antigos/nc/G/BOHEMIANHDCAMDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O CANDIDATO HONESTO 2
+http://stream.vstreaming.net/movies/ocandidatohonesto2-dub-720p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Missão Impossível 6: Efeito Fallout (DUB)
+http://stream.vstreaming.net/movies/missaoimpossivelefeitofallout-dub-1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Missão Impossível 6: Efeito Fallout (LEG)
+http://stream.vstreaming.net/movies/missaoimpossivelefeitofallout-leg-1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Primeira Chegada
+http://playflixhd.tk/embed/s1/1138.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Principe do Natal - O Casamento Real
+http://playflixhd.tk/embed/s1/1139.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Predador
+http://playflixhd.tk/embed/s1/1132.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Freira
+http://playflixhd.tk/embed/s1/1104.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Cro em Familia
+http://playflixhd.tk/embed/s1/1091.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Christopher Robin um reencontro inesquecivel
+http://playflixhd.tk/embed/s1/1032.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Era uma vez um casamento
+http://playflixhd.tk/embed/s1/1093.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Zoe e Raven - Os Doze presentes do Natal
+http://playflixhd.tk/embed/s1/1167.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Capitao Sharky O pequeno pirata
+http://playflixhd.tk/embed/s1/1188.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BIRD BOX
+http://playflixhd.tk/embed/s1/1187.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Nunca convide seu ex
+http://playflixhd.tk/embed/s1/1197.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Seu Nome
+http://playflixhd.tk/embed/s1/1196.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Juliet nua e crua
+http://playflixhd.tk/embed/s1/1195.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BIRD BOX
+http://playflixhd.tk/embed/s1/1187.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Homem que inventou o natal
+http://playflixhd.tk/embed/s1/1186.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Onda de choque
+http://playflixhd.tk/embed/s1/1185.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Hallowen - A Lenda de Jack
+http://playflixhd.tk/embed/s1/1184.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Delirium
+http://playflixhd.tk/embed/s1/1183.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Anel do Rei: A ultima Batalha
+http://playflixhd.tk/embed/s1/1176.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Flor da Juventude
+http://playflixhd.tk/embed/s1/1175.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Paranoia
+http://playflixhd.tk/embed/s1/1166.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Retorno do Duende
+http://playflixhd.tk/embed/s1/1165.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Demonios
+http://playflixhd.tk/embed/s1/1164.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Rota Selvagem
+http://playflixhd.tk/embed/s1/1161.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Resgate da Princesa
+http://playflixhd.tk/embed/s1/1159.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Arcade: Voce vai entrar nesse jogo
+http://playflixhd.tk/embed/s1/1158.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Mogli - Entre dois mundos
+http://playflixhd.tk/embed/s1/1157.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Leo da Vinci Missao Mona Lisa
+http://playflixhd.tk/embed/s1/1156.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Mary Shelley
+http://playflixhd.tk/embed/s1/1155.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Papai Noel e Cia 
+http://playflixhd.tk/embed/s1/1149.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Candidato Honesto 2
+http://playflixhd.tk/embed/s1/1145.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Castigados
+http://playflixhd.tk/embed/s1/1144.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Batalhas
+http://playflixhd.tk/embed/s1/1143.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Pe Pequeno
+http://playflixhd.tk/embed/s1/1142.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Boone - Cacador de Recomepensas
+http://playflixhd.tk/embed/s1/1141.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O que de verdade importa
+http://playflixhd.tk/embed/s1/1136.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Outra Mulher
+http://playflixhd.tk/embed/s1/1135.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", UPA: Meu monstro favorito
+http://playflixhd.tk/embed/s1/1131.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Justiceira
+http://playflixhd.tk/embed/s1/1105.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Permanente
+http://playflixhd.tk/embed/s1/1103.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Rei guerreiro
+http://playflixhd.tk/embed/s1/1097.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Pele fria
+http://playflixhd.tk/embed/s1/1092.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Missao Catmandu - As aventuras de nelly e simon
+http://playflixhd.tk/embed/s1/1089.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", CAM
+http://playflixhd.tk/embed/s1/1088.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Buscando
+http://playflixhd.tk/embed/s1/1082.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Ponto Cego
+http://playflixhd.tk/embed/s1/1070.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Legitimo Rei
+http://playflixhd.tk/embed/s1/1068.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Casa do Medo
+http://playflixhd.tk/embed/s1/1061.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Transpondo as barreiras
+http://playflixhd.tk/embed/s1/1059.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Para sempre minha garota
+http://playflixhd.tk/embed/s1/536.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Khali O assassino
+http://playflixhd.tk/embed/s1/933.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Hotel Artemis
+http://playflixhd.tk/embed/s1/924.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Hostis
+http://playflixhd.tk/embed/s1/1071.mp4?
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", QUESTÃO DE TEMPO
+https://tinyurl.com/iptvfuturoquestao
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BIRD BOX
+https://tinyurl.com/iptvfuturobird
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Piratas da somalia SD
+https://tinyurl.com/iptvfuturoPS 
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Piratas da somalia HD
+https://tinyurl.com/iptvfuturoPSHD
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Next Gen SD
+https://tinyurl.com/iptvfuturoNG 
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Next GEn HD
+https://tinyurl.com/iptvfuturonexhd
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Os crimes de lime house SD 
+https://tinyurl.com/iptvfuturolime
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", panico no lago SD
+https://tinyurl.com/iptvfuturoPL
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", panico no lago HD
+https://tinyurl.com/iptvfuturoPLHD
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", 8 mulheres e 1 segredo SD   
+https://tinyurl.com/iptvfuturo8M1S
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", 8 mulheres e 1 segredo HD 
+https://tinyurl.com/iptvfuturo8M1SHD
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", No Olho do Furacao SD
+https://tinyurl.com/iptvfuturoOF
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", No Olho do Furacao HD
+https://tinyurl.com/iptvfuturoOFhd
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Te peguei SD  
+https://tinyurl.com/iptvfuturoPEG
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Te peguei HD 
+https://tinyurl.com/iptvfuturoPEGhd
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Melhor Presente SD 
+https://tinyurl.com/iptvfuturoPR
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Melhor Presente HD
+https://tinyurl.com/iptvfuturoPRhd
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Conto 2018 SD
+https://tinyurl.com/iptvfuturoCONTO
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O conto 2018 HD
+https://tinyurl.com/iptvfuturoCONTOhd
+
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", AQUAMAN
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AQUAMANDVDRIPDUB.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", VENOM
+http://cdn2.thenightfilmes.net/httpdelivery/sexi/antigos/nc/G/VENOMCAMV2DUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", VENOM
+http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/VENOM2018RELEGHD-BAIXO.mp4?token=st=1545131420~exp=1545153020~acl=/html/*~hmac=12c4f8a10a569927062703f68a9778de
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Animais Fantásticos: Os Crimes de Grindelwald
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/ANIMAISFANTASTICOS2018-BAIXO.mp4?token=st=1545129504~exp=1545151104~acl=/html/*~hmac=ed9bc2f2ba78c59e49975c2b8c0e3551
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Capitão Sharky: O Pequeno Pirata (ANIMAÇÃO)
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/CAPITAOSHARKY-BAIXO.mp4?token=st=1545129737~exp=1545151337~acl=/html/*~hmac=a6f13f7bf06da3e37df2f079f9b78dcd
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", BIRD BOX
+http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/CAIXADEPASSAROSDUB-BAIXO.mp4?token=st=1545129937~exp=1545151537~acl=/html/*~hmac=c8cc3d785625fef336a36c43f410aa3a
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Unhinged
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/UNHINGEDLEG-BAIXO.mp4?token=st=1545130193~exp=1545151793~acl=/html/*~hmac=a099e2c4f63d777db5a9e08c2bb4d3bf
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Onda de Choque
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/ONDADECHOQUEDUB-BAIXO.mp4?token=st=1545130318~exp=1545151918~acl=/html/*~hmac=dbec3ca93fdbb582a70f1e657b398c58
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Banquete
+http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/BANQUETEDUB-BAIXO.mp4?token=st=1545130461~exp=1545152061~acl=/html/*~hmac=0c277317f6c4135f4f0aaa4fe4903da6
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Anel do Rei – A Última Batalha
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/ANELDOREIDUB-BAIXO.mp4?token=st=1545130629~exp=1545152229~acl=/html/*~hmac=5480248c769490d1de8ba7570ab0f3f7
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Delírios do Passado
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/DELIRIOSPASSADODUB-BAIXO.mp4?token=st=1545130789~exp=1545152389~acl=/html/*~hmac=a6679b8bd98f99aadfc6f42ad0e3c3b2
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", Leo Da Vinci: Missão Mona Lisa (ANIMAÇÃO)
+http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/LEODAVINCIDUB-BAIXO.mp4?token=st=1545130958~exp=1545152558~acl=/html/*~hmac=833deb22fd519a198735cafab3ae9fff
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Predador
+http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/PREDADOR2018DUB-BAIXO.mp4?token=st=1545131166~exp=1545152766~acl=/html/*~hmac=8c4b93f1f7398484cc18c473279eaf7a
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O DEMOLIDOR
+http://cdn-srv1.unitplay.net/stream/720/9739-demolition-man.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", QUESTÃO DE TEMPO
+http://cdn-srv1.unitplay.net/stream/720/122906-about-time.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O DEMOLIDOR
+http://tinyurl.com/iptvfuturoDemolidor
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", A Freira
+http://ia601500.us.archive.org/9/items/Files01LHMTv/Afr31r4.LHMTv.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE 2" pltv-subgroup="TEMPORARIOS", O Predador
+http://ia601500.us.archive.org/9/items/Files01LHMTv/Opr3d4d0r.LHMTv.mp4?
+######Billscars 3########################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Homem-Formiga e a Vespa
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/HOMEMFORMIGAHDRIPDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Os Domesticos LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/OSDOMESTICOSLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Perolas no Mar LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/PEROLASNOMARLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Agenda: Payback LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AGENDAPAYBACKLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Gotti LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/GOTTILEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", A Morte do Supeman LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AMORTEDOSUPERMANLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Os Incriveis 2
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/OSINCRIVEIS2TSDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Do Jeito que Elas Querem
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/DOJEITOQUEELASQUEREMDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Calibre LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/CALIBRELEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Marca de Nascenca LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/MARCADENACENCALEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Tau
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/TAUDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Amigos da Clinica
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AMIGOSDACLINICADUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Sexy por Acidente
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/SEXYPORACIDENTEDUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Verdade ou Desafio
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/VERDADEOUDESAFIODUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Maria Madalena LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/MARIAMADALENAHDLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Bombshell: A Historia de Hedy Lamarr LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/BOMBSHELLLEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Rota de Fuga 2 LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/ROTADEFUGA2LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", A Ultima Jornada
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AULTIMAJORNADADUB.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Somente o Mar Sabe LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/SOMENTEOMARSABE2018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Euphoria LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/EUPHORIA2018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", A Kid Like Jake LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/AKIDLIKEJAKE2018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", A Noite Devorou o Mundo LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/ANOITEDEVOROUOMUNDO2018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", Ghostland LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/GHOSTLAND2018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", 211 LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/2112018LEG.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="TEMPORARIOS", 2036 Origem Desconhecida LEG
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/2036ORIGEMDESCONHECIDA2018LEG.mp4?
+#################################################################################### FIM TEMP ##############################################
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CABANA
+http://webtvcde.com/Servidor/lan/acahd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CONQUISTA DA HONRA
+http://webtvcde.com/Servidor/lan/acdhh.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ALIEN COVENANT
+http://webtvcde.com/Servidor/lan/acnte7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AMALDIÇOADA
+http://webtvcde.com/Servidor/lan/adame7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ACERTO DE CONTAS
+http://webtvcde.com/Servidor/lan/adcun7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ALÉM DA ILUSÃO
+http://webtvcde.com/Servidor/lan/adine7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A AUTOPSIA
+http://webtvcde.com/Servidor/lan/adjdn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", APRISIONADOS
+http://webtvcde.com/Servidor/lan/adosn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", LEMBRANÇAS DO COLEGIAL
+http://webtvcde.com/Servidor/lan/aedas7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A ESPERA DA CHUVA
+http://webtvcde.com/Servidor/lan/aedcr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", THE AGE OF SHADOWS(DUB)
+http://webtvcde.com/Servidor/lan/aeden7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AMOR EM TEMPOS DE GUERRA
+http://webtvcde.com/Servidor/lan/aetdg7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A GAROTA HUNGARA
+http://webtvcde.com/Servidor/lan/aghfo7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AS IRMÃS BRONTÊ
+http://webtvcde.com/Servidor/lan/aibwh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ILHA DO MEDO
+http://webtvcde.com/Servidor/lan/aidmn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A INCRIVEL JESSICA JAMES
+http://webtvcde.com/Servidor/lan/aijjt7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A LEOA
+http://webtvcde.com/Servidor/lan/aloan7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", AS METAS DE JESSICA DARLINGS
+http://webtvcde.com/Servidor/lan/amdjd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A MUMIA (LEG)
+http://webtvcde.com/Servidor/lan/amlgn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A NOITE É DELAS
+http://webtvcde.com/Servidor/lan/anedk7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A PROMESSA
+http://webtvcde.com/Servidor/lan/apsaw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A PEREGRINAÇÃO
+http://webtvcde.com/Servidor/lan/apwrn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A RAINHA DA ESPANHA
+http://webtvcde.com/Servidor/lan/arden7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AMAR
+http://webtvcde.com/Servidor/lan/arnhu7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A DAMA DE CINZA
+http://webtvcde.com/Servidor/lan/ascne7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FESTA DE NATAL DO ESCRITÓRIO
+http://webtvcde.com/Servidor/lan/aurda7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", GHOST IN THE SHELL(DUB)
+http://webtvcde.com/Servidor/lan/avdak7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ATRAÇÃO VIOLENTA
+http://webtvcde.com/Servidor/lan/avkei7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BIKINI CAR WASH
+http://webtvcde.com/Servidor/lan/bcw2k7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", BATMAN E ARLEQUIM (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/beape7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", KISS AND CRY(DUB)
+http://webtvcde.com/Servidor/lan/becwj7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BASTARDOS INGLORIOS
+http://webtvcde.com/Servidor/lan/biken.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BORBOLETA NEGRA
+http://webtvcde.com/Servidor/lan/bnran7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BOYKA O IMBATIVEL 4
+http://webtvcde.com/Servidor/lan/boiws7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BUSCA SEM LIMITES
+http://webtvcde.com/Servidor/lan/bslqd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BAYWATCH
+http://webtvcde.com/Servidor/lan/bsmvs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CORAÇÃO DE DRAGÃO 4-BATALHA PELO CORAÇÃO DE FOGO
+http://webtvcde.com/Servidor/lan/cdd4a7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CAVALO DE GUERRA
+http://webtvcde.com/Servidor/lan/cdgjn.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CODIGOS DE GUERRA
+http://webtvcde.com/Servidor/lan/cdgke.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CONVIDADOS SEM HONRA
+http://webtvcde.com/Servidor/lan/cdhgr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CATFIGHT(DUB)
+http://webtvcde.com/Servidor/lan/chtkn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="DOCUMENTARIOS", COUNTERPUNCH (DOC)
+http://webtvcde.com/Servidor/lan/cnchr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CRIMES NA MADRUGADA
+http://webtvcde.com/Servidor/lan/cnmoe7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CHIPS - O FILME
+http://webtvcde.com/Servidor/lan/cofke7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CITY OF TINY LIGHTS (DUB)
+http://webtvcde.com/Servidor/lan/cotls7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CORRA
+http://webtvcde.com/Servidor/lan/crakh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DOG EAT DOG (DUB)
+http://webtvcde.com/Servidor/lan/csnse7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DOMINAÇÃO
+http://webtvcde.com/Servidor/lan/dcaok7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DORMINDO COM AS OUTRAS PESSOAS
+http://webtvcde.com/Servidor/lan/dcaop7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", THE DIABOLICAL(DUB)
+http://webtvcde.com/Servidor/lan/dcokr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="DOCUMENTARIOS", DESARMADOS(DOC)
+http://webtvcde.com/Servidor/lan/ddosn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DIÁRIO DE UM EXORCISTA
+http://webtvcde.com/Servidor/lan/dduez7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DESPEDIDA EM GRANDE ESTILO
+http://webtvcde.com/Servidor/lan/degen7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DINHEIRO
+http://webtvcde.com/Servidor/lan/dejbh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DRONE
+http://webtvcde.com/Servidor/lan/dneki7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DEATH NOTE (DUB)
+http://webtvcde.com/Servidor/lan/dnten7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DEIXADOS PARA TRÁS-A NOVA GERAÇÃO
+http://webtvcde.com/Servidor/lan/dptan7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DESCENDENTES 2
+http://webtvcde.com/Servidor/lan/dt2nh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DE VOLTA AO JOGO-AGORA É PESSOAL
+http://webtvcde.com/Servidor/lan/dvajn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ESTAREI EM CASA PARA O NATAL
+http://webtvcde.com/Servidor/lan/eecpo7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ELON NÃO ACREDITA NA MORTE
+http://webtvcde.com/Servidor/lan/enanm7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ENCONTRO SELVAGEM
+http://webtvcde.com/Servidor/lan/esmlf7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", IL A DÉJÁ TES YEUX (DUB) Ele tem os seus Olhos
+http://webtvcde.com/Servidor/lan/etmso7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FICA COMIGO
+http://webtvcde.com/Servidor/lan/fcgon7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FILHA DE DEUS
+http://webtvcde.com/Servidor/lan/fddne7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FOME DE PODER
+http://webtvcde.com/Servidor/lan/fdper7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FORA DA TRILHA
+http://webtvcde.com/Servidor/lan/fdtje7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", FALCÃO NEGRO EM PERIGO
+http://webtvcde.com/Servidor/lan/fnepk.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", GUERRA AO TERROR
+http://webtvcde.com/Servidor/lan/gatne.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", GATO DE BOTAS (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/gdbpn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", GUARDIÕES DAS GALAXIAS HD
+http://webtvcde.com/Servidor/lan/gdgv27.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", GABRIEL GAVA (SHOW)
+http://webtvcde.com/Servidor/lan/ggvaw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", GALINHA PINTADINHA (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/gpmxi7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", HIDE AND SEEK (DUB)
+http://webtvcde.com/Servidor/lan/haski7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", HACKER
+http://webtvcde.com/Servidor/lan/htctu7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", INVASÃO ALIENIGENA
+http://webtvcde.com/Servidor/lan/ianaj7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", IMPERIO DOS TUBARÕES
+http://webtvcde.com/Servidor/lan/idtlh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", IMPULSO DE VINGANÇA
+http://webtvcde.com/Servidor/lan/idvfg7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="DOCUMENTARIOS", ISIS:TERRORISMO EXTREMO (DOC)
+http://webtvcde.com/Servidor/lan/itaej7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", JOGO DE AMOR EM FLORENÇA
+http://webtvcde.com/Servidor/lan/jdadf7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", JOSE E MARIA
+http://webtvcde.com/Servidor/lan/jemwr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", JOÃO NETO & FREDERICO (SHOW)
+http://webtvcde.com/Servidor/lan/jnefs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", JUVENTUDE NO OREGON
+http://webtvcde.com/Servidor/lan/jnodf7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", KONG - ILHA DA CAVEIRA HD
+http://webtvcde.com/Servidor/lan/kidvh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", KÓBLIC (DUB)
+http://webtvcde.com/Servidor/lan/klcmn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", KNACK (DUB) ANIMAÇÃO
+http://webtvcde.com/Servidor/lan/kocdr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", KICKS (DUB)
+http://webtvcde.com/Servidor/lan/kswfr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MESSAGE FROM THE KING (DUB)
+http://webtvcde.com/Servidor/lan/kuhdv7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", SUPERHERO GIRLS LEGO (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/ldshg7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ALIEN COVENANT
+http://webtvcde.com/Servidor/lan/lgacn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", LINKIN PARK LIVE IN TEXAS(SHOW)
+http://webtvcde.com/Servidor/lan/lpssp7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", SCOOBY-DOO -BLOWOUT BEACH BASH LEGO (DUB) ANIMAÇÃO
+http://webtvcde.com/Servidor/lan/lsdgp7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", EU,EU MURILO (STAND UP SHOW)
+http://webtvcde.com/Servidor/lan/mceem7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MULHERES DO SECULO 20
+http://webtvcde.com/Servidor/lan/mds207.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", TAMO JUNTO -MARCO LUQUE -(STAND UP SHOW)
+http://webtvcde.com/Servidor/lan/mltje7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", MEU MALVADO FAVORITO 3(ANIMAÇÃO-CAM)
+http://webtvcde.com/Servidor/lan/mmf3t7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MULHER MARAVILHA HD
+http://webtvcde.com/Servidor/lan/mmhdn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MATE O REI
+http://webtvcde.com/Servidor/lan/morcv7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", CONTRASTE-NAIARA AZEVEDO (SHOW)
+http://webtvcde.com/Servidor/lan/nacbr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NORMAN (DUB)
+http://webtvcde.com/Servidor/lan/nceml7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OPENING NIGHT (DUB)
+http://webtvcde.com/Servidor/lan/ndame7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NUNCA DIGA SEU NOME
+http://webtvcde.com/Servidor/lan/ndsnr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NINGUEM ENTRA NINGUEM SAI (NAC)
+http://webtvcde.com/Servidor/lan/nensr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", NICK E O FEITIÇO DO DRAGÃO (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/neofd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NEGAÇÃO
+http://webtvcde.com/Servidor/lan/nowhj7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NO RITMO DA PAIXÃO
+http://webtvcde.com/Servidor/lan/nrdps7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NO RASTRO DA VIOLENCIA
+http://webtvcde.com/Servidor/lan/nrdva7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="DOCUMENTARIOS", NOBODY SPEAK(DOC) (DUB)
+http://webtvcde.com/Servidor/lan/nstot7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NU
+http://webtvcde.com/Servidor/lan/nufgd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ATAQUE DO TUBARÃO DE 5 CABEÇAS
+http://webtvcde.com/Servidor/lan/oadt57.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O AFOGAMENTO
+http://webtvcde.com/Servidor/lan/oanto7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O ARQUITETO
+http://webtvcde.com/Servidor/lan/oatoc7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O CARA CERTO
+http://webtvcde.com/Servidor/lan/occbh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O CIRCULO
+http://webtvcde.com/Servidor/lan/oclon7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O CASEIRO(NAC)
+http://webtvcde.com/Servidor/lan/ocron7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O DIA DO ATENTADO
+http://webtvcde.com/Servidor/lan/oddae7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O DESPERTAR DO PSICOPATA
+http://webtvcde.com/Servidor/lan/oddpn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O DEMONIO DA RUA WILLOW
+http://webtvcde.com/Servidor/lan/odduw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VIGILANTE DIARIES(DUB)
+http://webtvcde.com/Servidor/lan/odvte7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O ESPAÇO ENTRE NÓS
+http://webtvcde.com/Servidor/lan/oeenh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SETE IRMÃS
+http://webtvcde.com/Servidor/lan/oesbw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", GHOST IN THE SHELL(ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/ofdfv7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O FILHO ETERNO(NAC)
+http://webtvcde.com/Servidor/lan/ofeno7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O GUARDIÃO INVISIVEL
+http://webtvcde.com/Servidor/lan/ogiel7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NÃO PENSE 2 VEZES
+http://webtvcde.com/Servidor/lan/ohnep7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS IRMÃOS
+http://webtvcde.com/Servidor/lan/oiosg7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O INSTITUTO
+http://webtvcde.com/Servidor/lan/oiwbh7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O JOGO DO ABISMO
+http://webtvcde.com/Servidor/lan/ojdab7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OKJA
+http://webtvcde.com/Servidor/lan/okjae7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O LIVRO DO AMOR
+http://webtvcde.com/Servidor/lan/oldac7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O MINIMO PARA VIVER
+http://webtvcde.com/Servidor/lan/ompvs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", O PODEROSO CHEFINHO (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/opckn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", O REINO GELADO- FOGO E GELO - (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/org3f7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OFFLINE
+http://webtvcde.com/Servidor/lan/osbnv7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", OS SMURFS E A VILA PERDIDA (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/osevp7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O SANTO
+http://webtvcde.com/Servidor/lan/ostok7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS ULTIMOS SOBREVIVENTES
+http://webtvcde.com/Servidor/lan/ousny7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O ZOOLOGICO DE VARSÓVIA
+http://webtvcde.com/Servidor/lan/ozdvq7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PEDRO A REDENÇÃO
+http://webtvcde.com/Servidor/lan/parkn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PEQUENO DEMONIO
+http://webtvcde.com/Servidor/lan/pdnio7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PEARL HARBOR
+http://webtvcde.com/Servidor/lan/phorh.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PALHAÇOS INFERNAIS
+http://webtvcde.com/Servidor/lan/piaie7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PLATOON
+http://webtvcde.com/Servidor/lan/poone.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PAIXÃO OBSESSIVA
+http://webtvcde.com/Servidor/lan/povaw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", POWER RANGERS (INFANTIL)
+http://webtvcde.com/Servidor/lan/prrsn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", STASIS (IDIOMA ORIGINAL)
+http://webtvcde.com/Servidor/lan/psian7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", REI ARTHUR-A LENDA DA ESPADA
+http://webtvcde.com/Servidor/lan/raale7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", ROCK DOG (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/rdnfs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O RESGATE DO SOLDADO RYAN
+http://webtvcde.com/Servidor/lan/rdsrn.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", RESIDENT EVIL 6
+http://webtvcde.com/Servidor/lan/re6cfhd.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", RAPIDO E PERIGOSOS 2
+http://webtvcde.com/Servidor/lan/rep2s7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", RESIDENT EVIL - A VINGANÇA
+http://webtvcde.com/Servidor/lan/revrt7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", REAL- O PLANO POR TRÁS DA HISTÓRIA (NAC)
+http://webtvcde.com/Servidor/lan/roppt7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", RENATO RUSSO - UMA CELEBRAÇÃO (SHOW)
+http://webtvcde.com/Servidor/lan/rrusw7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SEXO AMOR E TERAPIA
+http://webtvcde.com/Servidor/lan/saetb7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SOBCUSTÓDIA
+http://webtvcde.com/Servidor/lan/scdia7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SILÊNCIO
+http://webtvcde.com/Servidor/lan/sciow7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="SHOWs", SIMONE & SIMARIA (SHOW)
+http://webtvcde.com/Servidor/lan/seslr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SWAT - OPERAÇÃO ESCORPIÃO
+http://webtvcde.com/Servidor/lan/soeic7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", STONEWALL- ONDE O ORGULHO COMEÇOU
+http://webtvcde.com/Servidor/lan/soocn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SOB PRESSÃO (NAC)
+http://webtvcde.com/Servidor/lan/spsao7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TRANSFORMERS - A ERA DA EXTINÇÃO
+http://webtvcde.com/Servidor/lan/taede7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TRANSFORMERS -A VINGANÇA DOS DERROTADOS
+http://webtvcde.com/Servidor/lan/tavdd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TRANSFORMERS 
+http://webtvcde.com/Servidor/lan/tersn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TRANSFORMERS - O LADO OCULTO DA LUA
+http://webtvcde.com/Servidor/lan/tolod7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O QUARTO NEGRO
+http://webtvcde.com/Servidor/lan/tbrwq7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TROPAS ESTELARES - INVASORES DE MARTE
+http://webtvcde.com/Servidor/lan/teidm7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", TOM & JERRY - WILLY WONKA E A FANTASTICA FABRICA DE CHOCOLATE
+http://webtvcde.com/Servidor/lan/tejaf7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TUDO E TODAS AS COISAS
+http://webtvcde.com/Servidor/lan/tetac7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TERRA FORMARS (DUB)
+http://webtvcde.com/Servidor/lan/tfmem7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TAKE-ME (DUB)
+http://webtvcde.com/Servidor/lan/tmghr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM AMAVEL PÃO DURO
+http://webtvcde.com/Servidor/lan/uapdn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UMA BELEZA FANTÁSTICA
+http://webtvcde.com/Servidor/lan/ubfqe7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM CONTRATEMPO
+http://webtvcde.com/Servidor/lan/uctsx7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM HOMEM DE FAMILIA
+http://webtvcde.com/Servidor/lan/uhdfs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM LAÇO DE AMOR
+http://webtvcde.com/Servidor/lan/uldan7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", UM LOBO EM PELE DE CORDEIRO (ANIMAÇÃO)
+http://webtvcde.com/Servidor/lan/ulepd7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UMA NOITE EM SAMPA- DOS MALES....ESCOLHA RIR (NAC)
+http://webtvcde.com/Servidor/lan/unesn7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UMA VIDA COM PROPÓSITO
+http://webtvcde.com/Servidor/lan/uvcpc7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VINGANÇA
+http://webtvcde.com/Servidor/lan/vcain7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", VINGADORES CONFIDENCIAL - VIUVA NEGRA E JUSTICEIRO
+http://webtvcde.com/Servidor/lan/vcvnj7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VIZINHANÇA DO BARULHO
+http://webtvcde.com/Servidor/lan/vdbcm7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VIAGEM DAS LOUCAS
+http://webtvcde.com/Servidor/lan/vdlcs7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VIDA DUPLA
+http://webtvcde.com/Servidor/lan/vdrcf7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VELOZES E FURIOSOS 8
+http://webtvcde.com/Servidor/lan/vef8h7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VELOZES E FURIOSOS 8
+http://webtvcde.com/Servidor/lan/vef8hd.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", VINCENT & ROXXY- AMOR E CRIME
+http://webtvcde.com/Servidor/lan/verca7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", WOLVERINE
+http://webtvcde.com/Servidor/lan/wihbjr.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", WILSON
+http://webtvcde.com/Servidor/lan/wsonk7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="DOCUMENTARIOS", WHAT THE HEALTH (DUB)
+http://webtvcde.com/Servidor/lan/wthth7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CIDADE PERDIDA DE Z
+http://webtvcde.com/Servidor/lan/zacpr7.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A MORTE DO SUPERMAN
+http://webtvcde.com/Filmes/Classicos/A.Morte.do.Superman.2007.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A FRENTE FRIA QUE A CHUVA TRAS
+http://webtvcde.com/Filmes/Classicos/A.Frente.Fria.Que.a.Chuva.Traz.avi
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A MORTE E VIDA DE BOBBY Z
+http://webtvcde.com/Filmes/Classicos/A.Morte.e.Vida.de.Bobby.Z.avi
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A NOITE DA VIRADA
+http://webtvcde.com/Filmes/Classicos/A.Noite.da.Virada.2014.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", 7 SEGUNDOS
+http://webtvcde.com/Filmes/Classicos/7segundos%202005%20Dublado.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", 30 DIAS DE NOITE 2 - DIAS SOMBRIOS
+http://webtvcde.com/Filmes/Classicos/30%20Dias%20de%20Noite%202%20-%20Dias%20Sombrios%202010.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", 300
+http://webtvcde.com/Filmes/Classicos/300.2006.BluRay.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", 2001-UMA ODISSEIA NO ESPAÇO
+http://webtvcde.com/Filmes/Classicos/2001-Uma.Odisseia.no.Espaco.1968.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A DAMA NA AGUA
+http://webtvcde.com/Filmes/Classicos/A.Dama.na.Agua.2006.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A BUSSOLA DE OURO
+http://webtvcde.com/Filmes/Classicos/A%20Bussola%20De%20Ouro%20(2007).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CASA MONSTRO
+http://webtvcde.com/Filmes/Classicos/A%20Casa%20Monstro%20(2006)Dublado.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CASA DE CERA
+http://webtvcde.com/Filmes/Classicos/A%20Casa%20de%20Cera%20HD.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CONQUISTA DA HONRA
+http://webtvcde.com/Filmes/Classicos/A%20Conquista%20da%20Honra%20(2006).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A GANGUE ESTA EM CAMPO
+http://webtvcde.com/Filmes/Classicos/A%20Gangue%20Esta%20Em%20Campo%20(2006).mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A HORA DO RUSH
+http://webtvcde.com/Filmes/Classicos/A%20Hora%20do%20Rush%20(1998).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A HORA DO RUSH 3
+http://webtvcde.com/Filmes/Classicos/A%20Hora%20do%20Rush%203%20(2007).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A LENDA DO TESOURO PERDIDO- O LIVRO DOS SEGREDOS
+http://webtvcde.com/Filmes/Classicos/A%20Lenda%20do%20Tesouro%20Perdido%20O%20Livro%20dos%20Segredos.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A LENDA DO ZORRO
+http://webtvcde.com/Filmes/Classicos/A%20Lenda%20do%20Zorro.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A PROCURA DA FELICIDADE
+http://webtvcde.com/Filmes/Classicos/A%20Procura%20Da%20Felicidade.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A VOLTA DO TODO PODEROSO
+http://webtvcde.com/Filmes/Classicos/A%20Volta%20do%20Todo%20Poderoso.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ABRAHAM LINCOLN - CAÇADOR DE VAMPIROS
+http://webtvcde.com/Filmes/Classicos/Abraham%20Lincoln%20Cacador%20de%20Vampiros.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A CASA DO LAGO
+http://webtvcde.com/Filmes/Classicos/A%20casa%20do%20lago%20(2006).mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ACE VENTURA- UM DETETIVE DIFERENTE
+http://webtvcde.com/Filmes/Classicos/Ace%20Ventura%20-%20Um%20Detetive%20Diferente%20(1994).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ACE VENTURA 2- UM MALUCO NA AFRICA
+http://webtvcde.com/Filmes/Classicos/Ace%20Ventura%202%20-%20Um%20Maluco%20na%20Africa%20(1995).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ADRENALINA
+http://webtvcde.com/Filmes/Classicos/Adrenalina%20(2006).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BELEZA AMERICANA
+http://webtvcde.com/Filmes/Classicos/American.Beauty.1999.1080p.mp4
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ATE QUE A FUGA NOS SEPARE
+http://webtvcde.com/Filmes/Classicos/Ate%20que%20a%20Fuga%20os%20Separe%20(1999).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ATIRADOR
+http://webtvcde.com/Filmes/Classicos/Atirador.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AVENTURAS NO NOVO ARTICO
+http://webtvcde.com/Filmes/Classicos/Aventuras%20no%20Novo%20Artico%20(2007).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BATALHA DE HONRA
+http://webtvcde.com/Filmes/Classicos/Batalha%20de%20honra%20(1993).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", BATALHA POR T.E.R.R.A (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Classicos/Batalha%20por%20T.E.R.R.A.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", BEE MOVIE-A HISTÓRIA DE UMA ABELHA (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Classicos/Bee%20Movie%20-%20A%20Hist%c3%b3ria%20de%20uma%20Abelha%20(2007).mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", BOA SORTE (NAC)
+http://webtvcde.com/Filmes/Classicos/Boa.Sorte.2015.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="WESTERN", CAHILL- O XERIFE DO OESTE (WESTERN)
+http://webtvcde.com/Filmes/Classicos/Cahill,%20Xerife%20do%20Oeste%20(1973).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CARGA EXPLOSIVA 2
+http://webtvcde.com/Filmes/Classicos/Carga%20Explosiva%202.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", CARROSSEL O FILME
+http://webtvcde.com/Filmes/Classicos/Carrossel.O.Filme.2015.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", CARROS (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Classicos/Cars%5b2006%5d.avi
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CARTAS DESDE IWO JIMA
+http://webtvcde.com/Filmes/Classicos/Cartas%20De%20Iwo%20Jima%20(2006).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CASSINO
+http://webtvcde.com/Filmes/Classicos/Cassino%20(1995).mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DO QUE AS MULHERES GOSTAM
+http://webtvcde.com/Filmes/Classicos/Do.que.as.Mulheres.Gostam.2000.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", E.T- O EXTRATERRESTRE 
+http://webtvcde.com/Filmes/Classicos/E.T-O.Extraterrestre.1982.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ENSAIO SOBRE A CEGUEIRA
+http://webtvcde.com/Filmes/Classicos/Ensaio.Sobre.A.Cegueira.2009.avi
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", PERFEITO (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/Flawless.1999.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", GHOST - O OUTRO LADO DA VIDA
+http://webtvcde.com/Filmes/Classicos/Ghost%20-%20Do%20Outro%20Lado%20da%20Vida%201080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", GLORY (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/Glory.1989.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", HOMENS DE HONRA
+http://webtvcde.com/Filmes/Classicos/Homens.De.Honra%20.1080p.Dublado.2000.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MAD MAX- ESTRADA DA FURIA
+http://webtvcde.com/Filmes/Classicos/Mad.Max-Estrada.da.Furia.2015.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", MONEY FROM HOME (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/Money.From.Home.1953.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MOTOQUEIRO FANTASMA 2- ESPIRITO DE VINGANÇA
+http://webtvcde.com/Filmes/Classicos/Motoqueiro.Fantasma-Espirito.de.Vinganca.2011.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MOTOQUEIROS SELVAGENS
+http://webtvcde.com/Filmes/Classicos/Motoqueiros%20Selvagens.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O AMOR NÃO TIRA FERIAS
+http://webtvcde.com/Filmes/Classicos/O.Amor.nao.Tira.Ferias.AVI
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O LEITOR
+http://webtvcde.com/Filmes/Classicos/O.Leitor.2008.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O LOBO DE WALL STREET
+http://webtvcde.com/Filmes/Classicos/O.Lobo.de.Wall.Street.2013.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O PODEROSO CHEFÃO 3
+http://webtvcde.com/Filmes/Classicos/O.Poderoso.Chefao.3.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O PODEROSO CHEFÃO
+http://webtvcde.com/Filmes/Classicos/O.Poderoso.Chefao.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O MASKARA
+http://webtvcde.com/Filmes/Classicos/O%20M%C3%A1skara%20(1994)%20BDRip%20720p%20dublado%20-%20Gilkerberus/O%20M%C3%A1skara%20(1994).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O SOM DO CORAÇÃO
+http://webtvcde.com/Filmes/Classicos/O%20Som%20do%20Cora%C3%A7%C3%A3o%20(2007)%20Dublado%20720p%20(By-LuanHarper)/O%20Som%20do%20Cora%C3%A7%C3%A3o%20(2007)%20Dublado%20720p%20(By-LuanHarper).mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O SEXTO SENTIDO
+http://webtvcde.com/Filmes/Classicos/O_Sexto_Sentido_1999.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ORGULHO E PRECONCEITO
+http://webtvcde.com/Filmes/Classicos/Orgulho.e.Preconceito.2005.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS TRES PATETAS
+http://webtvcde.com/Filmes/Classicos/Os.Tres.Patetas.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS AGENTES DO DESTINO
+http://webtvcde.com/Filmes/Classicos/Os%20Agentes%20do%20Destino.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PERFUME DE MULHER
+http://webtvcde.com/Filmes/Classicos/Perfume.de.Mulher.avi
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", QUEM QUER SER UM MILIONARIO?
+http://webtvcde.com/Filmes/Classicos/Quem.Quer.Ser.um.Milionario.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ROBIN HOOD
+http://webtvcde.com/Filmes/Classicos/Robin.Hood.2010.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SHERLOCK HOLMES
+http://webtvcde.com/Filmes/Classicos/Sherlock.Holmes.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SIMPLESMENTE AMOR
+http://webtvcde.com/Filmes/Classicos/Simplesmente.Amor.1080P.2003.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SPACE JAM - O JOGO DO SECULO
+http://webtvcde.com/Filmes/Classicos/Space.Jam-O.Jogo.do.Seculo.1996.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", O CODIGO DA VINCI (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/The.Da.Vinci.Code.2006.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", THE HOLLOW (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/The.Hollow.2015.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", THE HURRICANE (IDIOMA ORIGINAL)
+http://webtvcde.com/Filmes/Classicos/The.Hurricane.1999.1080p.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UMA LINDA MULHER
+http://webtvcde.com/Filmes/Classicos/Uma.Linda.Mulher.1990.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="ORIGINAL", WALL-E (IDIOMA ORIGINAL-ANIMAÇÃO)
+http://webtvcde.com/Filmes/Classicos/wall-e_2008.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", 211 O GRANDE ASSALTO
+http://webtvcde.com/Filmes/Dublados/Dublados/211.O.Grande.Assalto.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A LUZ DIVINA
+http://webtvcde.com/Filmes/Dublados/Dublados/A.Luz.Divina.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A MORTE DO SUPERMAN
+http://webtvcde.com/Filmes/Dublados/Dublados/A.Morte.do.Superman.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A NOITE DO JOGO
+http://webtvcde.com/Filmes/Dublados/Dublados/A.Noite.do.Jogo.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", A ORIGEM DOS GUARDIÕES (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/A.Origem.dos.Guardioes.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", A SOCIEDADE LITERARIA E A TORTA DE CASCA DE BATATA
+http://webtvcde.com/Filmes/Dublados/Dublados/A.Sociedade.Literaria.e.a.Torta.de.Casca.de.Batata.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ACTION POINT
+http://webtvcde.com/Filmes/Dublados/Dublados/Action.Point.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ALMAS SECAS
+http://webtvcde.com/Filmes/Dublados/Dublados/Almas.Secas.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AS AVENTURAS DE BRIGSBY BEAR
+http://webtvcde.com/Filmes/Dublados/Dublados/As.Aventuras.de.Brigsby.Bear.2018.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AS CALOURAS
+http://webtvcde.com/Filmes/Dublados/Dublados/As.Calouras.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ATRAÇÃO OBSESSIVA
+http://webtvcde.com/Filmes/Dublados/Dublados/Atracao.obsessiva.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", AUTODESTRUIÇÃO
+http://webtvcde.com/Filmes/Dublados/Dublados/Autodestruicao.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", BATMAN vs DUAS CARAS (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Batman.vs.Duas.Caras.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", BLEACH (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Bleach.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DEADPOOL 2
+http://webtvcde.com/Filmes/Dublados/Dublados/Deadpool2.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DESEJO DE MATAR 2018
+http://webtvcde.com/Filmes/Dublados/Dublados/Desejo.de.Matar.2018.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", DO FUNDO DO MAR 2
+http://webtvcde.com/Filmes/Dublados/Dublados/Do.Fundo.do.Mar.2.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ESTRELAS DE CINEMA NUNCA MORREM
+http://webtvcde.com/Filmes/Dublados/Dublados/Estrelas.de.Cinema.Nunca.Morrem.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", EU SÓ POSSO IMAGINAR
+http://webtvcde.com/Filmes/Dublados/Dublados/Eu.So.Posso.Imaginar.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", EXTINÇÃO
+http://webtvcde.com/Filmes/Dublados/Dublados/Extincao.2018.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", GUERREIROS DA ESCURIDÃO
+http://webtvcde.com/Filmes/Dublados/Dublados/Guerreiro.da.Escuridao.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", HOMEM AO MAR
+http://webtvcde.com/Filmes/Dublados/Dublados/Homem.ao.Mar.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", ILHA DOS CACHORROS (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Ilha.dos.Cachorros.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", JURASSIC WORLD
+http://webtvcde.com/Filmes/Dublados/Dublados/Jurassic.World.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MARIA MADALENA
+http://webtvcde.com/Filmes/Dublados/Dublados/Maria.Madalena.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MARIDO E MULHER
+http://webtvcde.com/Filmes/Dublados/Dublados/Marido.e.Mulher.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", MEDIDAS DESESPERADAS
+http://webtvcde.com/Filmes/Dublados/Dublados/Medidas.Desesperadas.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NÃO VAI DAR
+http://webtvcde.com/Filmes/Dublados/Dublados/Nao.Vai.Dar.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NEGOCIO FORA DE CONTROLE
+http://webtvcde.com/Filmes/Dublados/Dublados/Negocios.Fora.de.Controle.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", NEXT GEN (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Next.Gen.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NO OLHO DO FURACÃO
+http://webtvcde.com/Filmes/Dublados/Dublados/No.Olho.Do.Furacao.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", NOVICIADO
+http://webtvcde.com/Filmes/Dublados/Dublados/Noviciado.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O AUTOR
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Autor.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O BANQUEIRO DA RESISTENCIA
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Banqueiro.da.Resistencia.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", CARMA DE UM ASSASSINO
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Carma.de.um.Assassino.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O CONTO
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Conto.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O DOUTOR DA FELICIDADE
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Doutor.da.Felicidade.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O MOTORISTA DE TAXI
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Motorista.de.Taxi.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O PACOTE
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Pacote.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", O PEIXE GRANDE E BEGONIA (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Peixe.Grande.e.Begonia.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O REI DA MONTANHA
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Rei.da.Montanha.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O RESGATE DE UMA VIDA
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Resgate.de.uma.Vida.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", O ULTIMO GOLPE
+http://webtvcde.com/Filmes/Dublados/Dublados/O.Ultimo.Golpe.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OITO MULHERES E UM SEGREDO
+http://webtvcde.com/Filmes/Dublados/Dublados/Oito.Mulheres.e.um.Segredo.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OPERAÇÃO RESGATE-CAVERNA NA TAILLANDIA
+http://webtvcde.com/Filmes/Dublados/Dublados/Operacao.Resgate.Caverna.na.Taillandia.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS CRIMES DE LIMEHOUSE
+http://webtvcde.com/Filmes/Dublados/Dublados/Os.Crimes.de.Limehouse.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", OS ESTRANHOS-CAÇADA NOTURNA
+http://webtvcde.com/Filmes/Dublados/Dublados/Os.Estranhos.Cacada.Noturna.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PARA TODOS OS GAROTOS QUE JA AMEI
+http://webtvcde.com/Filmes/Dublados/Dublados/Para.Todos.os.Garotos.que.Ja.Amei.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PAULO APOSTOLO DE CRISTO 
+http://webtvcde.com/Filmes/Dublados/Dublados/Paulo.Apostolo.de.Cristo.2018.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PEDIDO DE AMIZADE
+http://webtvcde.com/Filmes/Dublados/Dublados/Pedido.de.Amizade.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", PERDIDA
+http://webtvcde.com/Filmes/Dublados/Dublados/Perdida.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", PLOEY VOCE NUNCA VOARA SOZINHO (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Ploey.Voce.Nunca.Voara.Sozinho.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", POR TRAS DOS SEUS OLHOS
+http://webtvcde.com/Filmes/Dublados/Dublados/Por.Tras.Dos.Seus.Olhos.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="INFANTIL", SHIKI ORIORI- O SABOR DA JUVENTUDE (ANIMAÇÃO)
+http://webtvcde.com/Filmes/Dublados/Dublados/Shiki.Oriori.O.Sabor.da.Juventude.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", SIERRA BURGESS-IS A LOSER
+http://webtvcde.com/Filmes/Dublados/Dublados/Sierra.Burgess.Is.A.Loser.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", ARRANHA CEU - CORAGEM SEM LIMITES
+http://webtvcde.com/Filmes/Dublados/Dublados/Skyscraper.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", HAN SOLO - UMA HISTORIA STAR WARS
+http://webtvcde.com/Filmes/Dublados/Dublados/Solo.A.Star.Wars.Story.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TAL PAI, TAL FILHA
+http://webtvcde.com/Filmes/Dublados/Dublados/Tal.Pai.Tal.Filha.2018.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TAU
+http://webtvcde.com/Filmes/Dublados/Dublados/Tau.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TE PEGUEI
+http://webtvcde.com/Filmes/Dublados/Dublados/Te.Peguei.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", TULLY
+http://webtvcde.com/Filmes/Dublados/Dublados/Tully.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM DIA PARA VIVER
+http://webtvcde.com/Filmes/Dublados/Dublados/Um.Dia.para.Viver.mkv
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UM LUGAR SILENCIOSO
+http://webtvcde.com/Filmes/Dublados/Dublados/Um.Lugar.Silencioso.mp4?
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/GuiadoLuizFS25x4offextra.jpg" group-title="ASSISTA HOJE" pltv-subgroup="FILMES", UMA QUESTÃO DE FÉ
+http://webtvcde.com/Filmes/Dublados/Dublados/Uma.Questao.de.Fe.mkv
