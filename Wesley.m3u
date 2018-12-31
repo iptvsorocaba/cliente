@@ -1,1 +1,103 @@
-http://cliente.playmove.tv/m3u?user=310612&password=ab682423f5366bccb5191f9f9d87cfa0&server=direct&type=.m3u&compatible=standard
+#EXTINF:-1 tvg-logo="Rederecord.br" group-title="CANAL ABERTO", pltv-subgroup="tv aberta", tv aberta
+http://cliente.playmove.tv/uc?id=310612&password=ab682423f5366bccb5191f9f9d87cfa0&export=download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Ainda Estamos Aqui
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AindaEstamosAqui-DUBLADO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Invencao De Hugo Cabret
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AInvencaoDeHugoCabret.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Alem da Realidade
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Alem.da.Realidade.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Lenda de Barney Thomson
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/alendadebarneythomson.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Lenda De Tarzan
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALendaDeTarzan.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Lenda Do Tesouro Perdido
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALentaDoTesouroPerdido.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Lenda Do Tesouro Perdido Livro Dos Segredos
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALentaDovtesouro2OLivroDoDegredos.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Luz Entre Oceanos
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/A.Luz.Entre.Oceanos.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A 5 Onda
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/A_5_Onda.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Alcateia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AAlcateeia-DUBLADO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Autopsia De Jane Doe
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AAutopsiaDeJaneDoe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A Bruxa
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ABruxa-DUBLADO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Meu Pé de Laranja Lima
+https://lh3.googleusercontent.com/keRKONLjH8X0ZcjNj-ppMd1M350H58bVlXA_MA_wK28ul-fvCX9K7PajHgLAZrWXsBS_PUFiyUhj=m22?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Onze Homens E Um Segredo
+https://lh3.googleusercontent.com/ZmMMaq0_Y3Uzfqg7BGzLnUvGgFLKjtgeNrLbj8bRDiOAvmtkyFwxJ5pnGNThgopDlvHB0DM5HsZ7=m22?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Os Dez Mandamentos - 1956 SD
+https://lh3.googleusercontent.com/8oFby4tTtQIrKdZApMsGCGG7dBlNyR2IeHzOv5fO-V_RR7bky2y3R6_bli9eFm64XVeB8DHfiZLx=m18?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Top Gun
+https://lh3.googleusercontent.com/wY1mO_OIK-EsxagKmbraZcdqUdUQtxhAAMCoX1MwtwlYi2-vyRl15EYe4GLlG5Vugg-YT27LS1I=m37?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Projeto China
+https://lh3.googleusercontent.com/SDIA-Sv564G7cJ55ca6hcTLRWWBERgkMv_8Kd5JPgCx1sQVW2K2grqRPXIxXIo3B3UN8zn8SDLxjhi8G3Q=m22?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Fantasmas A Solta 3 Sociedade Do Mal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/FantasmaAsolta3SociedadeDoMal.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Hector E A Procura Da Felicidade
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HectorEAProcuraDaFelicidade.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Mark E Russell
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MarkERussell.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Maximum Ride Projeto Angel
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MaximumRideProjetoAngel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", As Vozes
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/As.Vozes.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Mogli O Menino Lobo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MogliOMeninoLobo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", O Assalto Perfeito
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OAssaltoPerfeito.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Avatar
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Avatar.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", O Dragao Do Natal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ODragaoDoNatal.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Anaconda
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Anaconda-DUBLADO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Anaconda 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Anaconda2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Snowden - Heroi ou Traidor
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Snowden.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Ben Hur
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/BenHur.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Caes De Guerra
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CaesDeGuerra.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Genios Do Crime
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GeniosDoCrime.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Truque De Mestre O Segundo Ato
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/TruqueDeMestreOSegundoAto.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Cidades De Papel
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CidadesDePapel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Coracao Valente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CoracaoValente.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Eragon
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Eragon.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Evereste
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Evereste.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Baba Fora de Controle Missao Brasil
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/babaforadecontrolemissaobrasil.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Corrida Mortal 
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CorridaMortal2050.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", Sinais
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Sinais.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", HERANÇA DE SANGUE
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HerancaDeSangue-DUBLADO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", NOVICIADO (2018)
+https://lh3.googleusercontent.com/asChPQ1KPy-UZJmzNorAd-lD-Bx0TeczrUPiuaVatqYh_NJ6Hf596D6of2yrh2dUQVs6PGOkhSH_Qf9xHHqKFgU4RuHN6YcQmdgLq28YG5KPjo5-Ub-nmNgwaOQLnmcbbg0ayOOqt68=m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", NÃO VAI DAR (2018)
+https://lh3.googleusercontent.com/wO6c6roogVvWApixs2ZiyWlGUNLj3RThJC3KaApoF8qoLTx21K97dWEu1BrnfLcr2Sza5RCBEAgKsOsIoJPlPyGjuTMh-53c3Gnln2FHY05yhTNZMWvPsxumZ1fPiI_6cM2QD4z3ycI=m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", ROUBO SEM SAIDA (2018)
+https://bobfilmes.net/hl/Roubo.Sem.Sa_da.2018.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM_1525736659.mkv/Roubo.Sem.Sa_da.2018.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM_1525736659.mkv_1000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", A MUMIA
+http://webtvcde.com/Servidor/108/am108.mp4?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", AMORES CANIBAIS 
+http://webtvcde.com/Servidor/108/ac108.mp4?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", JOGO PERIGOSO   
+http://webtvcde.com/Servidor/108/jp108.mp4?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", NOSSAS NOITES
+http://webtvcde.com/Servidor/108/nn108.mp4?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", O BAR
+http://webtvcde.com/Servidor/108/ob108.mp4?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6Zdqcw/iptv.png" group-title="EXTRA" pltv-subgroup="FILMES", O MAGO DAS MENTIRAS
+http://webtvcde.com/Servidor/108/omm08.mp4?
+
